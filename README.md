@@ -1,6 +1,6 @@
 # Dado
 
-A simple aplication to roll a die an get an ASCII result for a die roll. The result is returned as an HTML inside <em>
+A simple application to roll a die an get an ASCII result for a die roll. The result is returned as an HTML inside <em>
 
 Usage:
 
